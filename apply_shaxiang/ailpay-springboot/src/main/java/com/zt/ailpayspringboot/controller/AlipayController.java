@@ -44,8 +44,8 @@ import com.alipay.api.request.AlipayTradePagePayRequest;
  * </p>
  * 
  * @author tiankong
- * @email 2366207000@qq.com
- * @date 2018年6月26日
+ * @email 1781948078@QQ.com
+ * @date 2020年2月15日
  * @version 1.0
  */
 @Controller
